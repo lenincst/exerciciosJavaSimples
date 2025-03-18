@@ -1,0 +1,20 @@
+# Pasta de build do Maven
+target/
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos de logs
+*.log
+
+# Arquivos gerados pelo Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
