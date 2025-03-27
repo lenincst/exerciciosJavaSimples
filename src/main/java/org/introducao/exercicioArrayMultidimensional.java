@@ -1,4 +1,4 @@
-package org.aplicacao;
+package org.introducao;
 
 public class exercicioArrayMultidimensional {
     public static void main(String[] args) {

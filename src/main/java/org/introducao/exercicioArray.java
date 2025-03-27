@@ -1,4 +1,4 @@
-package org.aplicacao;
+package org.introducao;
 
 public class exercicioArray {
     public static void main(String[] args) {
