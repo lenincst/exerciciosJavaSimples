@@ -1,4 +1,4 @@
-package org.introducao;
+package maratonajava.introducao;
 
 public class exercicioBreak {
     public static void main(String[] args) {
